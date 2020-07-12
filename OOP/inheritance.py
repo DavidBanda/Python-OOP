@@ -24,6 +24,7 @@ class Developer(Employee):
 
     def __init__(self, firstN, lastN, pay, prog_lang):
         super().__init__(firstN, lastN, pay)
+        # Employee.__init__(self, firstN, lastN, pay)
         self.prog_lang = prog_lang
 
 

@@ -15,8 +15,8 @@ def do_something(seconds):
 
 # t1 = threading.Thread(target=do_something, args=[1])
 # t2 = threading.Thread(target=do_something, args=[1])
-
-# start threads and run methods
+#
+# # start threads and run methods
 # t1.start()
 # t2.start()
 #

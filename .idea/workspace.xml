@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a08b4431-fe8d-49d7-bafa-153e158a3033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/coin_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/coin_change_dynamic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/fibonacci_recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/tower_of_hanoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/N-Quenns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/add_two_numbers/add_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Leetcode/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ternary_condition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgorithmsPythonBook/.idea/AlgorithmsPythonBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/.idea/AlgorithmsPythonBook.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgorithmsPythonBook/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgorithmsPythonBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/base_converter_recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/base_converter_recursive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/decimalToBinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/decimalToBinary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/factorial_recursivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/Ejemplos/factorial_recursivo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AlgorithmsPythonBook/pruebas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmsPythonBook/pruebas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask/flaskblog/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/flaskblog/static/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask/flaskblog/templates/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/flaskblog/templates/account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flask/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flask/flaskblog/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../httpAndWebservers" beforeDir="false" afterPath="$PROJECT_DIR$/../httpAndWebservers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threading/Threading.py" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Threading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -59,14 +59,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.Threading">
     <configuration name="Synchronously" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Threading" />
+        <item itemvalue="Python.Synchronously" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.classvariables" />
         <item itemvalue="Python.classesandinstances" />
-        <item itemvalue="Python.Threading" />
-        <item itemvalue="Python.Synchronously" />
       </list>
     </recent_temporary>
   </component>
@@ -195,10 +197,37 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1582841215462">
+    <state width="1255" height="-5" key="GridCell.Tab.0.bottom" timestamp="1594315081382">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="263" y="194" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1582841215462" />
+    <state width="1255" height="-5" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594315081382" />
+    <state width="1255" height="-5" key="GridCell.Tab.0.center" timestamp="1594315081381">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1255" height="-5" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1594315081381" />
+    <state width="1255" height="-5" key="GridCell.Tab.0.left" timestamp="1594315081380">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1255" height="-5" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1594315081380" />
+    <state width="1255" height="-5" key="GridCell.Tab.0.right" timestamp="1594315081382">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1255" height="-5" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1594315081382" />
+    <state x="64" y="0" key="SettingsEditor" timestamp="1594233927038">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="64" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1594233927038" />
   </component>
 </project>
